@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "5792A71EA3AAC4DE6CE360A14D1A8E5F",
+  "keywordClasses": [
+    {
+      "name": "excel.excelReport",
+      "keywordMethods": [
+        {
+          "name": "excelWriteReport",
+          "parameters": [
+            {
+              "name": "strTest",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "TestCaseNum",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
