@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: TC_01
+Description: </description>
+   <name>KAT-24 TC_01</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0003j:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://fokamo.atlassian.net/&quot;,&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;KAT&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Katalon&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;TC_01&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;fokamo4501@jernang.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Fokamo4501&quot;,&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/user?accountId\u003d6378cee12acfad92d7b05346&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;fokamo4501@jernang.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Fokamo4501&quot;,&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/user?accountId\u003d6378cee12acfad92d7b05346&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/issue/KAT-24/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/issue/10023&quot;,&quot;key&quot;:&quot;KAT-24&quot;,&quot;id&quot;:10023}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>259a0af4-3340-4468-96ad-100642aa9252</testCaseGuid>
+</TestCaseEntity>
