@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Test Cases/FailedTestCaseis failed due to 
+Description: DescriptionTest Cases/FailedTestCase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text '' of object 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment'
+</description>
+   <name>KAT-3 Test CasesFailedTestCaseis failed due to</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10036&quot;:&quot;Feature:\n\nScenario Outline:\n\nGiven:  I am on \u003cURL\u003e\nWhen: I enter username as \u003cusername\u003e\nAnd: I enter the password as the \u003cpassword\u003e\nThen: I should be redirected to the home page of Facebook \n\nExamples:\n\n| URL | Username | Password |\n\n| [https://katalon-demo-cura.herokuapp.com/|https://katalon-demo-cura.herokuapp.com/|smart-link] | John Doe | ThisIsNotAPassword |&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0000f:&quot;},&quot;status&quot;:{&quot;id&quot;:10001,&quot;description&quot;:&quot;This issue is being actively worked on at the moment by the assignee.&quot;,&quot;iconUrl&quot;:&quot;https://fokamo.atlassian.net/&quot;,&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/status/10001&quot;,&quot;name&quot;:&quot;In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;KAT&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Katalon&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Test Cases/FailedTestCaseis failed due to &quot;,&quot;description&quot;:&quot;DescriptionTest Cases/FailedTestCase FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to set text \u0027\u0027 of object \u0027Object Repository/Page_CURA Healthcare Service/a_Make Appointment\u0027\n&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;fokamo4501@jernang.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Fokamo4501&quot;,&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/user?accountId\u003d6378cee12acfad92d7b05346&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/issue/KAT-3/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://fokamo.atlassian.net/rest/api/2/issue/10002&quot;,&quot;key&quot;:&quot;KAT-3&quot;,&quot;id&quot;:10002}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>Feature:
+
+Scenario Outline:
+
+Given:  I am on &lt;URL>
+When: I enter username as &lt;username>
+And: I enter the password as the &lt;password>
+Then: I should be redirected to the home page of Facebook 
+
+Examples:
+
+| URL | Username | Password |
+
+| [https://katalon-demo-cura.herokuapp.com/|https://katalon-demo-cura.herokuapp.com/|smart-link] | John Doe | ThisIsNotAPassword |</comment>
+   <testCaseGuid>5fbbfcbc-1fdd-41c9-8f79-5867891fde5b</testCaseGuid>
+</TestCaseEntity>

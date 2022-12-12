@@ -12,17 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>733d6140-dd43-4523-ac13-590858123bb2</testSuiteGuid>
    <testCaseLink>
-      <guid>9b4f2f63-ff20-4c41-9117-0856399c62d2</guid>
+      <guid>191d1e1b-4a02-48bc-8a7b-0298dd17b1c3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCase01</testCaseId>
+      <testCaseId>Test Cases/KAT-3 Test CasesFailedTestCaseis failed due to</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cfb11ad0-13d1-4864-996d-5224e51bae7c</guid>
+      <guid>88ddd899-3c01-4ee1-a554-d4d2ff58ee11</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FailedTestCase</testCaseId>
+      <testCaseId>Test Cases/TestCase01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
